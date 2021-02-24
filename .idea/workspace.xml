@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96c0a60e-df84-4727-b541-50d07c361070" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1mNXPaMaUGvpQq7yZNlX32XbeJF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alecu\PhpstormProjects\CRUD" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CRUD/dir/app.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.app.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c0a60e-df84-4727-b541-50d07c361070" name="Default Changelist" comment="" />
+      <created>1609335008522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609335008522</updated>
+      <workItem from="1609335015942" duration="1258000" />
+      <workItem from="1609343934444" duration="13565000" />
+      <workItem from="1609369690403" duration="25000" />
+      <workItem from="1609582579424" duration="16992000" />
+      <workItem from="1609615457990" duration="5606000" />
+      <workItem from="1609624596322" duration="543000" />
+      <workItem from="1609628219248" duration="9849000" />
+      <workItem from="1609671389214" duration="11355000" />
+      <workItem from="1609697137399" duration="5681000" />
+      <workItem from="1609747389038" duration="664000" />
+      <workItem from="1609783452220" duration="7992000" />
+      <workItem from="1609798342974" duration="481000" />
+      <workItem from="1609826413562" duration="1428000" />
+      <workItem from="1609834165321" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
